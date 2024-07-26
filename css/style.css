@@ -1,0 +1,58 @@
+.night-dark {
+    background-color: #1a2c4c !important;
+}
+
+.navbar-collapse {
+    justify-content: end;
+}
+
+.navbar-brand {
+    color: rgb(250, 196, 153) !important;
+    text-transform: uppercase;
+}
+
+.active {
+    color: rgb(250, 196, 153) !important;
+}
+
+.main-image,
+.gallery-image,
+.medium-image {
+    width: 100%;
+}
+
+.heading,
+.card-header,
+.heading-2 {
+    color: #485670;
+}
+
+.border-night-light {
+    border-top: 1px solid rgba(72, 86, 112, 0.5);
+}
+
+.card {
+    border: 1px solid rgb(250, 196, 153);
+}
+
+.card-header {
+    text-transform: capitalize;
+    background-color: rgb(250, 196, 153) !important;
+    border-bottom: 1px solid rgb(250, 196, 153);
+}
+
+.btn-outline-dark {
+    color: #485670 !important;
+    border-color: #485670 !important;
+    background-color: white;
+}
+
+.btn-outline-dark:hover {
+    background-color: #485670 !important;
+    color: white !important;
+}
+
+.alert-dark {
+    background-color: rgb(250, 196, 153);
+    border: 1px solid rgb(250, 196, 153);
+}
